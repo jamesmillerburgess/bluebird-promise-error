@@ -1,0 +1,13 @@
+{
+  "name": "bluebird-promise-error",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "bluebird": "^3.5.1",
+    "cowsay": "^1.2.1",
+    "meteor-node-stubs": "^0.3.2"
+  }
+}
